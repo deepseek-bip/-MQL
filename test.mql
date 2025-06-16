@@ -54,7 +54,7 @@ const string futuresDatabase[][2] = {
    {"WUSH", "WU"}, {"MVID", "MV"}, {"CBOM", "CM"}, {"SGZH", "SZ"}, 
    {"BELU", "BE"}, {"FLOT", "FL"}, {"BSPB", "BS"}, {"BANE", "BN"}, 
    {"KMAZ", "KM"}, {"ASTR", "AS"}, {"SOFL", "S0"}, {"SVCB", "SC"}, 
-   {"R2000", "R2"}, {"DJ30", "DJ"}, {"ALIBABA", "BB"}, {"BAIDU", "BD"}, 
+   {"R2000", "R2"}, {"DJ30", "DJ"}, {"ALIBABA", "BB"}, {"SBERP", "SP"}, 
    {"RASP", "RA"}, {"FESH", "FE"}, {"RNFT", "RU"}, {"T", "TB"}, 
    {"X5", "X5"}, {"SFIN", "SH"}
 };
